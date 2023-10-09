@@ -1,6 +1,6 @@
 # Alibaba Tianchi Competition - Tmall Repurchase Prediction
 **Building comprehensive user and merchant features through feature engineering and utilizing machine learning model (xgboost) to predict whether users will repurchase.** \
-Competition Link: https://tianchi.aliyun.com/competition/entrance/231576/ \
+Competition Link: https://tianchi.aliyun.com/competition/entrance/231576/\
 Competition Results:
 * Date 2021/11/27: Ranking: 91, Score: 0.6876512.
 * (Updated) Date 2023/10/09: Ranking: 198 / 10905 (Top 2%) \
@@ -10,7 +10,10 @@ Competition Results:
 * feature_engineering.ipynb: Feature engineering on the training and testing datasets, generating processed datasets.
 * trainer_evaluator.ipynb: Creating and training the model, then predicting the testing dataset using the model, and saving the prediction results locally.
 * tb_repurchase_.ipyhb: Used for data analysis, plotting, and visualization.
-To replicate this algorithm, simply run the first two Jupyter notebooks.
+
+## Reproduction
+To replicate this algorithm, simply run the first two Jupyter notebooks. \
+Notice: Before run the code, please prepare the datasets from the competition link.
 
 ## Info
 Author: Weihong Zhang, College of AI, UCAS. \
