@@ -1,9 +1,9 @@
 # Alibaba Tianchi Competition - Tmall Repurchase Prediction
 **Building comprehensive user and merchant features through feature engineering and utilizing machine learning model (xgboost) to predict whether users will repurchase.** \
-Competition Link: https://tianchi.aliyun.com/competition/entrance/231576/\
+Competition Link: https://tianchi.aliyun.com/competition/entrance/231576/ \
 Competition Results:
 * Date 2021/11/27: Ranking: 91, Score: 0.6876512.
-* (Updated) Date 2023/10/09: Ranking: 198 / 10905 (Top 2%) \
+* (Updated) Date 2023/10/09: Ranking: 198 / 10905 **(Top 2%)** \
 ![ranking](./ranking.jpg)
 
 ## File Description
